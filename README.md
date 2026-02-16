@@ -58,12 +58,8 @@ While the core engine and platform source code remain private, this space is use
 To begin using the platform:
 
 1. Visit the **Redirect Page**
-2. **Sign Up** – Create your profile to track progress  
-3. **Select a Track** – Choose from:
-   - Algorithms  
-   - Systems  
-   - Full-Stack  
-4. **Compete** – Join live contests or practice independently  
+2. **Sign Up** – Create your profile to track progress    
+3. **Compete** – Join live contests or practice independently  
 
 ---
 
