@@ -7,7 +7,7 @@
 
 ## 🚀 Enter Wirre  
 
-👉 **[Click here to access the official platform](https://wirre.vercel.app/)**  
+👉 **[Click here to access the official platform](https://wirre.in/)**  
 
 ---
 
